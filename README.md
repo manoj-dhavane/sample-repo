@@ -1,1 +1,1 @@
-# sample-repo example 
+# sample-repo example for commit
